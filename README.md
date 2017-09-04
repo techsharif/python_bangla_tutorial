@@ -4,7 +4,7 @@
 
 [**টিউটোরিয়াল প্লে-লিস্ট**](https://goo.gl/XFwyk6)
 
-[**টিউটোরিয়ালের কোডসমুহ ( গিটহাব )**](https://github.com/techsharif/python_bangla_tutorialt)
+[**টিউটোরিয়ালের কোডসমুহ ( গিটহাব )**](https://github.com/techsharif/python_bangla_tutorial)
 
 [**সহায়িকা ডক**](https://techsharif.gitbooks.io/python_help_doc/)
 
