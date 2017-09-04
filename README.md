@@ -1,5 +1,3 @@
-# পাইথন বাংলা টিউটোরিয়াল
-
 ![পাইথন বাংলা টিউটোরিয়াল](https://techsharif.gitbooks.io/python_help_doc/assets/python_cover_small.jpg)
 
 [**টিউটোরিয়াল প্লে-লিস্ট**](https://goo.gl/XFwyk6)
