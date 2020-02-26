@@ -4,7 +4,7 @@
 
 [**টিউটোরিয়ালের কোডসমুহ ( গিটহাব )**](https://github.com/techsharif/python_bangla_tutorial)
 
-[**সহায়িকা ডক**](https://techsharif.gitbooks.io/python_help_doc/)
+[**সহায়িকা ডক**](https://techsharif.gitbook.io/python-help-doc/)
 
 [**ফেসবুক হেল্প**](https://www.facebook.com/groups/techsharif.python/)
 
